@@ -1,3 +1,4 @@
 RA: 917122029
 Nome: Luiz Abrantes
-Curso: SI
+Data Nascimento:
+Email:
